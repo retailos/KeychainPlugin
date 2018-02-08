@@ -1,0 +1,23 @@
+
+{
+  "name": "com.shazron.cordova.plugin.keychainutil",
+  "version": "0.0.1",
+  "description": "Cordova Keychain Util",
+  "cordova": {
+    "id": "com.shazron.cordova.plugin.keychainutil",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retailos/KeychainPlugin"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Red Ant",
+  "license": "Apache 2.0"
+}
